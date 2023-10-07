@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "imagine:block/stripped_fairy_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "imagine:block/stripped_fairy_log"
+    },
+    "axis=z": {
+      "model": "imagine:block/stripped_fairy_log_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "imagine:block/fairy_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "imagine:block/fairy_wood"
+    },
+    "axis=z": {
+      "model": "imagine:block/fairy_wood_horizontal",
+      "x": 90
+    }
+  }
+}

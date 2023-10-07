@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "imagine:fairystone"
+    }
+  },
+  "result": {
+    "item": "imagine:fairy_bricks",
+    "count": 4
+  }
+}

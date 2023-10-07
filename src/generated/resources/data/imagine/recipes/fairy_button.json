@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "imagine:fairy_planks"
+    }
+  ],
+  "result": {
+    "item": "imagine:fairy_button"
+  }
+}

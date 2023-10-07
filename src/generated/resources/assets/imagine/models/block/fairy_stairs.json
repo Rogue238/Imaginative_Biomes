@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "imagine:block/fairy_planks",
+    "side": "imagine:block/fairy_planks",
+    "top": "imagine:block/fairy_planks"
+  }
+}

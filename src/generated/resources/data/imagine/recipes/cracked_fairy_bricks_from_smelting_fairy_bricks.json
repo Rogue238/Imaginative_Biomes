@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "stone",
+  "ingredient": {
+    "item": "imagine:fairy_bricks"
+  },
+  "result": "imagine:cracked_fairy_bricks"
+}

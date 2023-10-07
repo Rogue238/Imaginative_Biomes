@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "imagine:block/cracked_fairy_bricks"
+  }
+}

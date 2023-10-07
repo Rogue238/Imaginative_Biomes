@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "imagine:block/stripped_fairy_wood_top",
+    "side": "imagine:block/stripped_fairy_wood"
+  }
+}

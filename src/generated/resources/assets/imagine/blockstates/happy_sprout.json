@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "imagine:block/happy_sprout0"
+    },
+    "age=1": {
+      "model": "imagine:block/happy_sprout1"
+    },
+    "age=2": {
+      "model": "imagine:block/happy_sprout2"
+    },
+    "age=3": {
+      "model": "imagine:block/happy_sprout3"
+    },
+    "age=4": {
+      "model": "imagine:block/happy_sprout4"
+    },
+    "age=5": {
+      "model": "imagine:block/happy_sprout5"
+    },
+    "age=6": {
+      "model": "imagine:block/happy_sprout6"
+    },
+    "age=7": {
+      "model": "imagine:block/happy_sprout7"
+    }
+  }
+}

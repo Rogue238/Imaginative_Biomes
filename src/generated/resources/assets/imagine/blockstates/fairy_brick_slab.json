@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "imagine:block/fairy_brick_slab"
+    },
+    "type=double": {
+      "model": "imagine:block/fairy_bricks"
+    },
+    "type=top": {
+      "model": "imagine:block/fairy_brick_slab_top"
+    }
+  }
+}

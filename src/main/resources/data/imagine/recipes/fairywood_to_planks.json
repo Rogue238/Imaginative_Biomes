@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "imagine:fairy_wood"
+    }
+  ],
+  "result": {
+    "item": "imagine:fairy_planks",
+    "count": 4
+  }
+
+
+}

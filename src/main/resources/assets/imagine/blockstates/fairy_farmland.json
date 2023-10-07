@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "imagine:block/fairy_farmland"
+    },
+    "moisture=1": {
+      "model": "imagine:block/fairy_farmland"
+    },
+    "moisture=2": {
+      "model": "imagine:block/fairy_farmland"
+    },
+    "moisture=3": {
+      "model": "imagine:block/fairy_farmland"
+    },
+    "moisture=4": {
+      "model": "imagine:block/fairy_farmland"
+    },
+    "moisture=5": {
+      "model": "imagine:block/fairy_farmland"
+    },
+    "moisture=6": {
+      "model": "imagine:block/fairy_farmland"
+    },
+    "moisture=7": {
+      "model": "imagine:block/fairy_farmland_moist"
+    }
+  }
+}

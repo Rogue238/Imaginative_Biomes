@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "imagine:block/fairystone",
+    "side": "imagine:block/fairystone",
+    "top": "imagine:block/fairystone"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_fairycobble": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "imagine:fairycobble"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "imagine:fairystone_from_smelting_fairycobble"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_fairycobble",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "imagine:fairystone_from_smelting_fairycobble"
+    ]
+  },
+  "sends_telemetry_event": false
+}
