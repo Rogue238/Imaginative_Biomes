@@ -1,0 +1,15 @@
+// 1.20.1	2023-10-10T18:08:40.3067885	Tags for minecraft:block mod id imagine
+ada132f667c4f40618b5b9b602dcbd76399f0d41 data/forge/tags/blocks/stone.json
+7e70e824a82140d1dce4c78b090644df00dbccdf data/imagine/tags/blocks/bonemeal_fairy_grass_block.json
+75ea8c7eaf5ae8d8dd4aec0c508dac4b74caaaca data/imagine/tags/blocks/fairywood.json
+0c0508c170d3a7aa519377ea9894faa2401dfd16 data/minecraft/tags/blocks/dirt.json
+78ff5ebdf5c529486ee000e9b8097bf6a4578c45 data/minecraft/tags/blocks/fences.json
+f89e7d953f0c5f5b082bbaaee879fb947e4923a5 data/minecraft/tags/blocks/fence_gates.json
+75ea8c7eaf5ae8d8dd4aec0c508dac4b74caaaca data/minecraft/tags/blocks/logs.json
+75ea8c7eaf5ae8d8dd4aec0c508dac4b74caaaca data/minecraft/tags/blocks/logs_that_burn.json
+fe50c20146c6ae269d89df6d44628b3eeafca23a data/minecraft/tags/blocks/mineable/axe.json
+98774a52c5c96e5947f5546704e569b3993cddd4 data/minecraft/tags/blocks/mineable/pickaxe.json
+3c7abb3809cc4341a7c66220bd86d9418ecdce61 data/minecraft/tags/blocks/planks.json
+395775150ba0ce1354e356b4ec66376f2eedc24c data/minecraft/tags/blocks/small_flowers.json
+b1258bacec39cabcc664c53078609e711dd11a11 data/minecraft/tags/blocks/walls.json
+d14ff9318f46177713132794428acdbc63f9d6bd data/minecraft/tags/blocks/wooden_doors.json
